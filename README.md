@@ -1,5 +1,5 @@
 # Transformar-datos-accidentes-SAE
-Este escript toma datos del sae y una tabla dimesional para extraer informacion accionable de infracciones por accidentes de transito
+Este script toma datos del sae y una tabla dimesional para extraer informacion accionable de infracciones por accidentes de transito
 
 # 📊 Transformación de Datos SEGOP
 
